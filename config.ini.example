@@ -1,0 +1,7 @@
+[Settings]
+folder = C:\Users\Username\Pictures\Wallpapers
+; Text position values: (1, 2, 3, 4)
+text_position = 4
+
+[OpenWeatherMap]
+key = YOUR_API_KEY
